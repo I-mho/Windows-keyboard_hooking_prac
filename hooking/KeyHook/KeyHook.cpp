@@ -3,6 +3,8 @@
 #include "stdio.h"
 #include "Windows.h"
 
+#include "pch.h"
+
 #define DEF_PROCESS_NAME "notepad.exe"
 
 HINSTANCE g_hInstance = NULL;
